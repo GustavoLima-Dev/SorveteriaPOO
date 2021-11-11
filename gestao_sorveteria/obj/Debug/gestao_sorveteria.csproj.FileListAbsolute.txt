@@ -1,0 +1,9 @@
+C:\Users\Pichau\OneDrive\Área de Trabalho\C#\gestao_sorveteria\gestao_sorveteria\bin\Debug\gestao_sorveteria.exe.config
+C:\Users\Pichau\OneDrive\Área de Trabalho\C#\gestao_sorveteria\gestao_sorveteria\bin\Debug\gestao_sorveteria.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\C#\gestao_sorveteria\gestao_sorveteria\bin\Debug\gestao_sorveteria.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\C#\gestao_sorveteria\gestao_sorveteria\obj\Debug\gestao_sorveteria.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\C#\gestao_sorveteria\gestao_sorveteria\obj\Debug\gestao_sorveteria.Properties.Resources.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\C#\gestao_sorveteria\gestao_sorveteria\obj\Debug\gestao_sorveteria.csproj.GenerateResource.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\C#\gestao_sorveteria\gestao_sorveteria\obj\Debug\gestao_sorveteria.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\C#\gestao_sorveteria\gestao_sorveteria\obj\Debug\gestao_sorveteria.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\C#\gestao_sorveteria\gestao_sorveteria\obj\Debug\gestao_sorveteria.pdb
